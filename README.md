@@ -11,6 +11,14 @@ S'inscrire sur [MEETUP GDG GOMA](http://bit.ly/kotlin4droid-p1)
 | [Josue Isamuna](https://twitter.com/josamuna) | Goma, RDC | [https://github.com/josamuna/](https://github.com/josamuna/) |
 | [Akilimali Samuel](https://twitter.com/...) | Goma, RDC | [https://github.com/josamuna/](https://github.com/josamuna/) |
 
+## Slides
+
+| Title | url | 
+| --------|-------|
+| Good morning Kotlin | [https://medium.com/@misamuna](https://medium.com/@misamuna) |
+| Understand Coroutines  | [https://github.com/josamuna/](https://github.com/josamuna/) |
+
+
 ## Plan de la formation
 
 
