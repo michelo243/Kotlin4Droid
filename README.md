@@ -15,7 +15,7 @@ S'inscrire sur [MEETUP GDG GOMA](http://bit.ly/kotlin4droid-p1)
 
 | Title | url | 
 | --------|-------|
-| Good morning Kotlin | [https://medium.com/@misamuna](https://medium.com/@misamuna) |
+| Good morning Kotlin | [GDG DevFest18 Kotlin.pdf](https://github.com/michelo243/Kotlin4Droid/slides/GDGDevFest18-Ghost-Kotlin.pdf) |
 | Understand Coroutines  | [https://github.com/josamuna/](https://github.com/josamuna/) |
 
 
